@@ -1,0 +1,1536 @@
+{
+ "cards": {
+  "Knight": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Knight",
+   "hp": 2822,
+   "building": false
+  },
+  "Archer": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Archer",
+   "hp": 486,
+   "building": false
+  },
+  "Goblins": {
+   "type": "troop",
+   "cost": 2,
+   "unit": "Goblin_Stab",
+   "hp": 323,
+   "building": false
+  },
+  "Giant": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "Giant",
+   "hp": 6339,
+   "building": false
+  },
+  "Pekka": {
+   "type": "troop",
+   "cost": 7,
+   "unit": "Pekka",
+   "hp": 6008,
+   "building": false
+  },
+  "Minions": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Minion",
+   "hp": 368,
+   "building": false
+  },
+  "Balloon": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "Balloon",
+   "hp": 2678,
+   "building": false
+  },
+  "Witch": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "Witch",
+   "hp": 1341,
+   "building": false
+  },
+  "Barbarians": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "Barbarian",
+   "hp": 1145,
+   "building": false
+  },
+  "Golem": {
+   "type": "troop",
+   "cost": 8,
+   "unit": "Golem",
+   "hp": 8180,
+   "building": false
+  },
+  "Skeletons": {
+   "type": "troop",
+   "cost": 1,
+   "unit": "Skeleton",
+   "hp": 130,
+   "building": false
+  },
+  "Valkyrie": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "Valkyrie",
+   "hp": 3047,
+   "building": false
+  },
+  "SkeletonArmy": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Skeleton",
+   "hp": 130,
+   "building": false
+  },
+  "Bomber": {
+   "type": "troop",
+   "cost": 2,
+   "unit": "Bomber",
+   "hp": 486,
+   "building": false
+  },
+  "Musketeer": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "Musketeer",
+   "hp": 1153,
+   "building": false
+  },
+  "BabyDragon": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "BabyDragon",
+   "hp": 1840,
+   "building": false
+  },
+  "Prince": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "Prince",
+   "hp": 3067,
+   "building": false
+  },
+  "Wizard": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "Wizard",
+   "hp": 1206,
+   "building": false
+  },
+  "MiniPekka": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "MiniPekka",
+   "hp": 2220,
+   "building": false
+  },
+  "SpearGoblins": {
+   "type": "troop",
+   "cost": 2,
+   "unit": "SpearGoblin",
+   "hp": 212,
+   "building": false
+  },
+  "GiantSkeleton": {
+   "type": "troop",
+   "cost": 6,
+   "unit": "GiantSkeleton",
+   "hp": 5370,
+   "building": false
+  },
+  "HogRider": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "HogRider",
+   "hp": 2711,
+   "building": false
+  },
+  "MinionHorde": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "Minion",
+   "hp": 368,
+   "building": false
+  },
+  "IceWizard": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "IceWizard",
+   "hp": 1100,
+   "building": false
+  },
+  "RoyalGiant": {
+   "type": "troop",
+   "cost": 6,
+   "unit": "RoyalGiant",
+   "hp": 5055,
+   "building": false
+  },
+  "SkeletonWarriors": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "SkeletonWarrior",
+   "hp": 130,
+   "building": false
+  },
+  "Princess": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Princess",
+   "hp": 417,
+   "building": false
+  },
+  "DarkPrince": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "DarkPrince",
+   "hp": 1918,
+   "building": false
+  },
+  "ThreeMusketeers": {
+   "type": "troop",
+   "cost": 9,
+   "unit": "ThreeMusketeer_Rework_Character_1",
+   "hp": 1447,
+   "building": false
+  },
+  "LavaHound": {
+   "type": "troop",
+   "cost": 7,
+   "unit": "LavaHound",
+   "hp": 5721,
+   "building": false
+  },
+  "IceSpirits": {
+   "type": "troop",
+   "cost": 1,
+   "unit": "IceSpirits",
+   "hp": 343,
+   "building": false
+  },
+  "FireSpirits": {
+   "type": "troop",
+   "cost": 1,
+   "unit": "FireSpirits",
+   "hp": 343,
+   "building": false
+  },
+  "Miner": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Miner",
+   "hp": 1934,
+   "building": false
+  },
+  "ZapMachine": {
+   "type": "troop",
+   "cost": 6,
+   "unit": "ZapMachine",
+   "hp": 2319,
+   "building": false
+  },
+  "Bowler": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "Bowler",
+   "hp": 3325,
+   "building": false
+  },
+  "RageBarbarian": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "RageBarbarian",
+   "hp": 2049,
+   "building": false
+  },
+  "BattleRam": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "BattleRam",
+   "hp": 1546,
+   "building": false
+  },
+  "InfernoDragon": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "InfernoDragon",
+   "hp": 2069,
+   "building": false
+  },
+  "IceGolemite": {
+   "type": "troop",
+   "cost": 2,
+   "unit": "IceGolemite",
+   "hp": 1963,
+   "building": false
+  },
+  "MegaMinion": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "MegaMinion",
+   "hp": 1337,
+   "building": false
+  },
+  "BlowdartGoblin": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "BlowdartGoblin",
+   "hp": 417,
+   "building": false
+  },
+  "GoblinGang": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Goblin_Stab",
+   "hp": 323,
+   "building": false
+  },
+  "ElectroWizard": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "ElectroWizard",
+   "hp": 1141,
+   "building": false
+  },
+  "AngryBarbarians": {
+   "type": "troop",
+   "cost": 6,
+   "unit": "AngryBarbarian",
+   "hp": 2143,
+   "building": false
+  },
+  "Hunter": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "Hunter",
+   "hp": 1415,
+   "building": false
+  },
+  "AxeMan": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "AxeMan",
+   "hp": 2045,
+   "building": false
+  },
+  "Assassin": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Assassin",
+   "hp": 1447,
+   "building": false
+  },
+  "RoyalRecruits": {
+   "type": "troop",
+   "cost": 7,
+   "unit": "Recruit",
+   "hp": 875,
+   "building": false
+  },
+  "DarkWitch": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "DarkWitch",
+   "hp": 1447,
+   "building": false
+  },
+  "Bats": {
+   "type": "troop",
+   "cost": 2,
+   "unit": "Bat",
+   "hp": 130,
+   "building": false
+  },
+  "Ghost": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Ghost",
+   "hp": 1840,
+   "building": false
+  },
+  "RamRider": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "Ram",
+   "hp": 2822,
+   "building": false
+  },
+  "MiniSparkys": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "MiniZapMachine",
+   "hp": 846,
+   "building": false
+  },
+  "Rascals": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "RascalBoy",
+   "hp": 2928,
+   "building": false
+  },
+  "MovingCannon": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "MovingCannon",
+   "hp": 2891,
+   "building": false
+  },
+  "MegaKnight": {
+   "type": "troop",
+   "cost": 7,
+   "unit": "MegaKnight",
+   "hp": 6380,
+   "building": false
+  },
+  "SkeletonBalloon": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "SkeletonBalloon",
+   "hp": 850,
+   "building": false
+  },
+  "DartBarrell": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "DartBarrell",
+   "hp": 981,
+   "building": false
+  },
+  "Wallbreakers": {
+   "type": "troop",
+   "cost": 2,
+   "unit": "Wallbreaker",
+   "hp": 527,
+   "building": false
+  },
+  "RoyalHogs": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "RoyalHog",
+   "hp": 1337,
+   "building": false
+  },
+  "GoblinGiant": {
+   "type": "troop",
+   "cost": 6,
+   "unit": "GoblinGiant",
+   "hp": 4969,
+   "building": false
+  },
+  "Fisherman": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Fisherman",
+   "hp": 1390,
+   "building": false
+  },
+  "EliteArcher": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "EliteArcher",
+   "hp": 846,
+   "building": false
+  },
+  "ElectroDragon": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "ElectroDragon",
+   "hp": 1676,
+   "building": false
+  },
+  "Firecracker": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Firecracker",
+   "hp": 486,
+   "building": false
+  },
+  "MightyMiner": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "MightyMiner",
+   "hp": 3595,
+   "building": false
+  },
+  "SuperWitch": {
+   "type": "troop",
+   "cost": 6,
+   "unit": "SuperWitch",
+   "hp": 1701,
+   "building": false
+  },
+  "ElixirGolem": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "ElixirGolem1",
+   "hp": 2507,
+   "building": false
+  },
+  "BattleHealer": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "BattleHealer",
+   "hp": 3067,
+   "building": false
+  },
+  "SkeletonKing": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "SkeletonKing",
+   "hp": 3672,
+   "building": false
+  },
+  "SuperLavaHound": {
+   "type": "troop",
+   "cost": 8,
+   "unit": "SuperLavaHound",
+   "hp": 11452,
+   "building": false
+  },
+  "SuperEliteArcher": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "SuperEliteArcher",
+   "hp": 1119,
+   "building": false
+  },
+  "ArcherQueen": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "ArcherQueen",
+   "hp": 1599,
+   "building": false
+  },
+  "SuperHogRider": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "SuperHogRider",
+   "hp": 2702,
+   "building": false
+  },
+  "GoldenKnight": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "GoldenKnight",
+   "hp": 2875,
+   "building": false
+  },
+  "SuperIceGolemite": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "SuperIceGolemite",
+   "hp": 5790,
+   "building": false
+  },
+  "CHAR_DISABLED_1": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Knight",
+   "hp": 2822,
+   "building": false
+  },
+  "Monk": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "Monk",
+   "hp": 3537,
+   "building": false
+  },
+  "SuperArcher": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "SuperArcher",
+   "hp": 1119,
+   "building": false
+  },
+  "RoyalRecruits_Chess": {
+   "type": "troop",
+   "cost": 7,
+   "unit": "Recruit_Chess",
+   "hp": 850,
+   "building": false
+  },
+  "SkeletonDragons": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "SkeletonDragon",
+   "hp": 895,
+   "building": false
+  },
+  "SuperHogRiderTerry": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "SuperHogRider_Terry",
+   "hp": 3680,
+   "building": false
+  },
+  "SuperMiniPekka": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "SuperMiniPekka",
+   "hp": 2509,
+   "building": false
+  },
+  "WitchMother": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "WitchMother",
+   "hp": 846,
+   "building": false
+  },
+  "ElectroSpirit": {
+   "type": "troop",
+   "cost": 1,
+   "unit": "ElectroSpirit",
+   "hp": 343,
+   "building": false
+  },
+  "ElectroGiant": {
+   "type": "troop",
+   "cost": 7,
+   "unit": "ElectroGiant",
+   "hp": 6314,
+   "building": false
+  },
+  "PrinceBuff": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "PrinceBuff",
+   "hp": 3686,
+   "building": false
+  },
+  "Phoenix": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "Phoenix",
+   "hp": 1680,
+   "building": false
+  },
+  "CHAR_DISABLED_3": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Knight",
+   "hp": 2822,
+   "building": false
+  },
+  "CHAR_DISABLED_4": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Knight",
+   "hp": 2822,
+   "building": false
+  },
+  "CHAR_DISABLED_5": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Knight",
+   "hp": 2822,
+   "building": false
+  },
+  "CHAR_DISABLED_6": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Knight",
+   "hp": 2822,
+   "building": false
+  },
+  "CHAR_DISABLED_7": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "Knight",
+   "hp": 2822,
+   "building": false
+  },
+  "LittlePrince": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "LittlePrince",
+   "hp": 1116,
+   "building": false
+  },
+  "TriWizards": {
+   "type": "troop",
+   "cost": 7
+  },
+  "GoblinDemolisher": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "GoblinDemolisher",
+   "hp": 2077,
+   "building": false
+  },
+  "GoblinMachine": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "GoblinMachine",
+   "hp": 3619,
+   "building": false
+  },
+  "SuspiciousBush": {
+   "type": "troop",
+   "cost": 2,
+   "unit": "SuspiciousBush",
+   "hp": 130,
+   "building": false
+  },
+  "SuperKnight": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "SuperKnight",
+   "hp": 3243,
+   "building": false
+  },
+  "Goblinstein": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "goblinstein",
+   "hp": 3578,
+   "building": false
+  },
+  "SkeletonWarriors_SpookyChess": {
+   "type": "troop",
+   "cost": 7,
+   "unit": "SkeletonWarrior_SpookyChess",
+   "hp": 130,
+   "building": false
+  },
+  "GiantBuffer": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "GiantBuffer",
+   "hp": 4499,
+   "building": false
+  },
+  "Berserker": {
+   "type": "troop",
+   "cost": 2,
+   "unit": "Berserker",
+   "hp": 1431,
+   "building": false
+  },
+  "BossBandit": {
+   "type": "troop",
+   "cost": 6,
+   "unit": "BossBandit",
+   "hp": 4192,
+   "building": false
+  },
+  "MergeMaiden_Normal": {
+   "type": "troop",
+   "cost": 3,
+   "unit": "MergeMaiden_Normal",
+   "hp": 1791,
+   "building": false
+  },
+  "MergeMaiden_Mounted": {
+   "type": "troop",
+   "cost": 6,
+   "unit": "MergeMaiden_Mounted",
+   "hp": 1791,
+   "building": false
+  },
+  "Ronin": {
+   "type": "troop",
+   "cost": 5,
+   "unit": "Ronin",
+   "hp": 2842,
+   "building": false
+  },
+  "MinionGiant": {
+   "type": "troop",
+   "cost": 4,
+   "unit": "MinionGiant",
+   "hp": 2903,
+   "building": false
+  },
+  "Cannon": {
+   "type": "building",
+   "cost": 3,
+   "unit": "Cannon",
+   "hp": 1316,
+   "building": true
+  },
+  "GoblinHut": {
+   "type": "building",
+   "cost": 4,
+   "unit": "GoblinHut_Rework",
+   "hp": 1885,
+   "building": true
+  },
+  "Mortar": {
+   "type": "building",
+   "cost": 4,
+   "unit": "Mortar",
+   "hp": 2188,
+   "building": true
+  },
+  "InfernoTower": {
+   "type": "building",
+   "cost": 5,
+   "unit": "InfernoTower",
+   "hp": 2793,
+   "building": true
+  },
+  "BombTower": {
+   "type": "building",
+   "cost": 4,
+   "unit": "BombTower",
+   "hp": 2167,
+   "building": true
+  },
+  "BarbarianHut": {
+   "type": "building",
+   "cost": 6,
+   "unit": "BarbarianHut",
+   "hp": 1860,
+   "building": true
+  },
+  "Tesla": {
+   "type": "building",
+   "cost": 4,
+   "unit": "Tesla",
+   "hp": 1889,
+   "building": true
+  },
+  "Elixir Collector": {
+   "type": "building",
+   "cost": 6,
+   "unit": "ElixirCollector",
+   "hp": 1709,
+   "building": true
+  },
+  "Xbow": {
+   "type": "building",
+   "cost": 6,
+   "unit": "Xbow",
+   "hp": 2556,
+   "building": true
+  },
+  "Tombstone": {
+   "type": "building",
+   "cost": 3,
+   "unit": "Tombstone",
+   "hp": 846,
+   "building": true
+  },
+  "FirespiritHut": {
+   "type": "building",
+   "cost": 4,
+   "unit": "Furnace_rework",
+   "hp": 1161,
+   "building": false
+  },
+  "BarbarianLauncher": {
+   "type": "building",
+   "cost": 5,
+   "unit": "BarbarianLauncher",
+   "hp": 2351,
+   "building": true
+  },
+  "GoblinCage": {
+   "type": "building",
+   "cost": 4,
+   "unit": "GoblinCage",
+   "hp": 1247,
+   "building": true
+  },
+  "GoblinDrill": {
+   "type": "building",
+   "cost": 4,
+   "unit": "GoblinDrillDig",
+   "hp": 4090,
+   "building": false
+  },
+  "GoblinPartyHut": {
+   "type": "building",
+   "cost": 5,
+   "unit": "GoblinPartyHut",
+   "hp": 1885,
+   "building": true
+  },
+  "DarkElixir_Bottle": {
+   "type": "building",
+   "cost": 3,
+   "unit": "DarkElixir_Bottle",
+   "hp": 0,
+   "building": true
+  },
+  "ElixirBarrel": {
+   "type": "building",
+   "cost": 6,
+   "unit": "ElixirBarrel",
+   "hp": 3995,
+   "building": true
+  },
+  "GoblinRocketSilo": {
+   "type": "building",
+   "cost": 7,
+   "unit": "GoblinRocketSilo",
+   "hp": 3194,
+   "building": true
+  },
+  "Fireball": {
+   "type": "spell",
+   "cost": 4
+  },
+  "Arrows": {
+   "type": "spell",
+   "cost": 3
+  },
+  "Rage": {
+   "type": "spell",
+   "cost": 2
+  },
+  "Rocket": {
+   "type": "spell",
+   "cost": 6
+  },
+  "GoblinBarrel": {
+   "type": "spell",
+   "cost": 3
+  },
+  "Freeze": {
+   "type": "spell",
+   "cost": 4
+  },
+  "Mirror": {
+   "type": "spell",
+   "cost": 1
+  },
+  "Lightning": {
+   "type": "spell",
+   "cost": 6
+  },
+  "Zap": {
+   "type": "spell",
+   "cost": 2
+  },
+  "Poison": {
+   "type": "spell",
+   "cost": 4
+  },
+  "Graveyard": {
+   "type": "spell",
+   "cost": 5
+  },
+  "Log": {
+   "type": "spell",
+   "cost": 2
+  },
+  "Tornado": {
+   "type": "spell",
+   "cost": 3
+  },
+  "Clone": {
+   "type": "spell",
+   "cost": 3
+  },
+  "Earthquake": {
+   "type": "spell",
+   "cost": 3
+  },
+  "BarbLog": {
+   "type": "spell",
+   "cost": 2
+  },
+  "Heal": {
+   "type": "spell",
+   "cost": 1
+  },
+  "Snowball": {
+   "type": "spell",
+   "cost": 2
+  },
+  "RoyalDelivery": {
+   "type": "spell",
+   "cost": 3
+  },
+  "GlobalClone": {
+   "type": "spell",
+   "cost": 3
+  },
+  "GoblinPartyRocket": {
+   "type": "spell",
+   "cost": 5
+  },
+  "WarmSpell": {
+   "type": "spell",
+   "cost": 1
+  },
+  "GlobalLightning": {
+   "type": "spell",
+   "cost": 1
+  },
+  "DarkMagic": {
+   "type": "spell",
+   "cost": 5
+  },
+  "GoblinCurse": {
+   "type": "spell",
+   "cost": 2
+  },
+  "MergeMaiden": {
+   "type": "spell",
+   "cost": 6
+  },
+  "Vines": {
+   "type": "spell",
+   "cost": 3
+  }
+ },
+ "unit_hp": {
+  "Knight": 2822,
+  "Archer": 486,
+  "Goblin_Stab": 323,
+  "Giant": 6339,
+  "Pekka": 6008,
+  "Minion": 368,
+  "Balloon": 2678,
+  "Witch": 1341,
+  "Barbarian": 1145,
+  "Golem": 8180,
+  "Skeleton": 130,
+  "Valkyrie": 3047,
+  "Bomber": 486,
+  "Musketeer": 1153,
+  "BabyDragon": 1840,
+  "Prince": 3067,
+  "Wizard": 1206,
+  "MiniPekka": 2220,
+  "SpearGoblin": 212,
+  "GiantSkeleton": 5370,
+  "HogRider": 2711,
+  "IceWizard": 1100,
+  "RoyalGiant": 5055,
+  "SkeletonWarrior": 130,
+  "Princess": 417,
+  "DarkPrince": 1918,
+  "ThreeMusketeer_Rework_Character_1": 1447,
+  "LavaHound": 5721,
+  "IceSpirits": 343,
+  "FireSpirits": 343,
+  "Miner": 1934,
+  "ZapMachine": 2319,
+  "Bowler": 3325,
+  "RageBarbarian": 2049,
+  "BattleRam": 1546,
+  "InfernoDragon": 2069,
+  "IceGolemite": 1963,
+  "MegaMinion": 1337,
+  "BlowdartGoblin": 417,
+  "ElectroWizard": 1141,
+  "AngryBarbarian": 2143,
+  "Hunter": 1415,
+  "AxeMan": 2045,
+  "Assassin": 1447,
+  "Recruit": 875,
+  "DarkWitch": 1447,
+  "Bat": 130,
+  "Ghost": 1840,
+  "Ram": 2822,
+  "MiniZapMachine": 846,
+  "RascalBoy": 2928,
+  "MovingCannon": 2891,
+  "MegaKnight": 6380,
+  "SkeletonBalloon": 850,
+  "DartBarrell": 981,
+  "Wallbreaker": 527,
+  "RoyalHog": 1337,
+  "GoblinGiant": 4969,
+  "Fisherman": 1390,
+  "EliteArcher": 846,
+  "ElectroDragon": 1676,
+  "Firecracker": 486,
+  "MightyMiner": 3595,
+  "SuperWitch": 1701,
+  "ElixirGolem1": 2507,
+  "BattleHealer": 3067,
+  "SkeletonKing": 3672,
+  "SuperLavaHound": 11452,
+  "SuperEliteArcher": 1119,
+  "ArcherQueen": 1599,
+  "SuperHogRider": 2702,
+  "GoldenKnight": 2875,
+  "SuperIceGolemite": 5790,
+  "Monk": 3537,
+  "SuperArcher": 1119,
+  "Recruit_Chess": 850,
+  "SkeletonDragon": 895,
+  "SuperHogRider_Terry": 3680,
+  "SuperMiniPekka": 2509,
+  "WitchMother": 846,
+  "ElectroSpirit": 343,
+  "ElectroGiant": 6314,
+  "PrinceBuff": 3686,
+  "Phoenix": 1680,
+  "LittlePrince": 1116,
+  "GoblinDemolisher": 2077,
+  "GoblinMachine": 3619,
+  "SuspiciousBush": 130,
+  "SuperKnight": 3243,
+  "goblinstein": 3578,
+  "SkeletonWarrior_SpookyChess": 130,
+  "GiantBuffer": 4499,
+  "Berserker": 1431,
+  "BossBandit": 4192,
+  "MergeMaiden_Normal": 1791,
+  "MergeMaiden_Mounted": 1791,
+  "Ronin": 2842,
+  "MinionGiant": 2903,
+  "Cannon": 1316,
+  "GoblinHut_Rework": 1885,
+  "Mortar": 2188,
+  "InfernoTower": 2793,
+  "BombTower": 2167,
+  "BarbarianHut": 1860,
+  "Tesla": 1889,
+  "ElixirCollector": 1709,
+  "Xbow": 2556,
+  "Tombstone": 846,
+  "Furnace_rework": 1161,
+  "BarbarianLauncher": 2351,
+  "GoblinCage": 1247,
+  "GoblinDrillDig": 4090,
+  "GoblinPartyHut": 1885,
+  "ElixirBarrel": 3995,
+  "GoblinRocketSilo": 3194
+ },
+ "unit_to_card": {
+  "Knight": "Knight",
+  "Archer": "Archer",
+  "Goblin_Stab": "Goblins",
+  "Giant": "Giant",
+  "Pekka": "Pekka",
+  "Minion": "Minions",
+  "Balloon": "Balloon",
+  "Witch": "Witch",
+  "Barbarian": "Barbarians",
+  "Golem": "Golem",
+  "Skeleton": "Skeletons",
+  "Valkyrie": "Valkyrie",
+  "Bomber": "Bomber",
+  "Musketeer": "Musketeer",
+  "BabyDragon": "BabyDragon",
+  "Prince": "Prince",
+  "Wizard": "Wizard",
+  "MiniPekka": "MiniPekka",
+  "SpearGoblin": "SpearGoblins",
+  "GiantSkeleton": "GiantSkeleton",
+  "HogRider": "HogRider",
+  "IceWizard": "IceWizard",
+  "RoyalGiant": "RoyalGiant",
+  "SkeletonWarrior": "SkeletonWarriors",
+  "Princess": "Princess",
+  "DarkPrince": "DarkPrince",
+  "ThreeMusketeer_Rework_Character_1": "ThreeMusketeers",
+  "LavaHound": "LavaHound",
+  "IceSpirits": "IceSpirits",
+  "FireSpirits": "FireSpirits",
+  "Miner": "Miner",
+  "ZapMachine": "ZapMachine",
+  "Bowler": "Bowler",
+  "RageBarbarian": "RageBarbarian",
+  "BattleRam": "BattleRam",
+  "InfernoDragon": "InfernoDragon",
+  "IceGolemite": "IceGolemite",
+  "MegaMinion": "MegaMinion",
+  "BlowdartGoblin": "BlowdartGoblin",
+  "ElectroWizard": "ElectroWizard",
+  "AngryBarbarian": "AngryBarbarians",
+  "Hunter": "Hunter",
+  "AxeMan": "AxeMan",
+  "Assassin": "Assassin",
+  "Recruit": "RoyalRecruits",
+  "DarkWitch": "DarkWitch",
+  "Bat": "Bats",
+  "Ghost": "Ghost",
+  "Ram": "RamRider",
+  "MiniZapMachine": "MiniSparkys",
+  "RascalBoy": "Rascals",
+  "MovingCannon": "MovingCannon",
+  "MegaKnight": "MegaKnight",
+  "SkeletonBalloon": "SkeletonBalloon",
+  "DartBarrell": "DartBarrell",
+  "Wallbreaker": "Wallbreakers",
+  "RoyalHog": "RoyalHogs",
+  "GoblinGiant": "GoblinGiant",
+  "Fisherman": "Fisherman",
+  "EliteArcher": "EliteArcher",
+  "ElectroDragon": "ElectroDragon",
+  "Firecracker": "Firecracker",
+  "MightyMiner": "MightyMiner",
+  "SuperWitch": "SuperWitch",
+  "ElixirGolem1": "ElixirGolem",
+  "BattleHealer": "BattleHealer",
+  "SkeletonKing": "SkeletonKing",
+  "SuperLavaHound": "SuperLavaHound",
+  "SuperEliteArcher": "SuperEliteArcher",
+  "ArcherQueen": "ArcherQueen",
+  "SuperHogRider": "SuperHogRider",
+  "GoldenKnight": "GoldenKnight",
+  "SuperIceGolemite": "SuperIceGolemite",
+  "Monk": "Monk",
+  "SuperArcher": "SuperArcher",
+  "Recruit_Chess": "RoyalRecruits_Chess",
+  "SkeletonDragon": "SkeletonDragons",
+  "SuperHogRider_Terry": "SuperHogRiderTerry",
+  "SuperMiniPekka": "SuperMiniPekka",
+  "WitchMother": "WitchMother",
+  "ElectroSpirit": "ElectroSpirit",
+  "ElectroGiant": "ElectroGiant",
+  "PrinceBuff": "PrinceBuff",
+  "Phoenix": "Phoenix",
+  "LittlePrince": "LittlePrince",
+  "GoblinDemolisher": "GoblinDemolisher",
+  "GoblinMachine": "GoblinMachine",
+  "SuspiciousBush": "SuspiciousBush",
+  "SuperKnight": "SuperKnight",
+  "goblinstein": "Goblinstein",
+  "SkeletonWarrior_SpookyChess": "SkeletonWarriors_SpookyChess",
+  "GiantBuffer": "GiantBuffer",
+  "Berserker": "Berserker",
+  "BossBandit": "BossBandit",
+  "MergeMaiden_Normal": "MergeMaiden_Normal",
+  "MergeMaiden_Mounted": "MergeMaiden_Mounted",
+  "Ronin": "Ronin",
+  "MinionGiant": "MinionGiant",
+  "Cannon": "Cannon",
+  "GoblinHut_Rework": "GoblinHut",
+  "Mortar": "Mortar",
+  "InfernoTower": "InfernoTower",
+  "BombTower": "BombTower",
+  "BarbarianHut": "BarbarianHut",
+  "Tesla": "Tesla",
+  "ElixirCollector": "Elixir Collector",
+  "Xbow": "Xbow",
+  "Tombstone": "Tombstone",
+  "Furnace_rework": "FirespiritHut",
+  "BarbarianLauncher": "BarbarianLauncher",
+  "GoblinCage": "GoblinCage",
+  "GoblinDrillDig": "GoblinDrill",
+  "GoblinPartyHut": "GoblinPartyHut",
+  "DarkElixir_Bottle": "DarkElixir_Bottle",
+  "ElixirBarrel": "ElixirBarrel",
+  "GoblinRocketSilo": "GoblinRocketSilo"
+ },
+ "ids": {
+  "Knight": 26000000,
+  "Archer": 26000001,
+  "Goblins": 26000002,
+  "Giant": 26000003,
+  "Pekka": 26000004,
+  "Minions": 26000005,
+  "Balloon": 26000006,
+  "Witch": 26000007,
+  "Barbarians": 26000008,
+  "Golem": 26000009,
+  "Skeletons": 26000010,
+  "Valkyrie": 26000011,
+  "SkeletonArmy": 26000012,
+  "Bomber": 26000013,
+  "Musketeer": 26000014,
+  "BabyDragon": 26000015,
+  "Prince": 26000016,
+  "Wizard": 26000017,
+  "MiniPekka": 26000018,
+  "SpearGoblins": 26000019,
+  "GiantSkeleton": 26000020,
+  "HogRider": 26000021,
+  "MinionHorde": 26000022,
+  "IceWizard": 26000023,
+  "RoyalGiant": 26000024,
+  "SkeletonWarriors": 26000025,
+  "Princess": 26000026,
+  "DarkPrince": 26000027,
+  "ThreeMusketeers": 26000028,
+  "LavaHound": 26000029,
+  "IceSpirits": 26000030,
+  "FireSpirits": 26000031,
+  "Miner": 26000032,
+  "ZapMachine": 26000033,
+  "Bowler": 26000034,
+  "RageBarbarian": 26000035,
+  "BattleRam": 26000036,
+  "InfernoDragon": 26000037,
+  "IceGolemite": 26000038,
+  "MegaMinion": 26000039,
+  "BlowdartGoblin": 26000040,
+  "GoblinGang": 26000041,
+  "ElectroWizard": 26000042,
+  "AngryBarbarians": 26000043,
+  "Hunter": 26000044,
+  "AxeMan": 26000045,
+  "Assassin": 26000046,
+  "RoyalRecruits": 26000047,
+  "DarkWitch": 26000048,
+  "Bats": 26000049,
+  "Ghost": 26000050,
+  "RamRider": 26000051,
+  "MiniSparkys": 26000052,
+  "Rascals": 26000053,
+  "MovingCannon": 26000054,
+  "MegaKnight": 26000055,
+  "SkeletonBalloon": 26000056,
+  "DartBarrell": 26000057,
+  "Wallbreakers": 26000058,
+  "RoyalHogs": 26000059,
+  "GoblinGiant": 26000060,
+  "Fisherman": 26000061,
+  "EliteArcher": 26000062,
+  "ElectroDragon": 26000063,
+  "Firecracker": 26000064,
+  "MightyMiner": 26000065,
+  "SuperWitch": 26000066,
+  "ElixirGolem": 26000067,
+  "BattleHealer": 26000068,
+  "SkeletonKing": 26000069,
+  "SuperLavaHound": 26000070,
+  "SuperEliteArcher": 26000071,
+  "ArcherQueen": 26000072,
+  "SuperHogRider": 26000073,
+  "GoldenKnight": 26000074,
+  "SuperIceGolemite": 26000075,
+  "CHAR_DISABLED_1": 26000076,
+  "Monk": 26000077,
+  "SuperArcher": 26000078,
+  "RoyalRecruits_Chess": 26000079,
+  "SkeletonDragons": 26000080,
+  "SuperHogRiderTerry": 26000081,
+  "SuperMiniPekka": 26000082,
+  "WitchMother": 26000083,
+  "ElectroSpirit": 26000084,
+  "ElectroGiant": 26000085,
+  "PrinceBuff": 26000086,
+  "Phoenix": 26000087,
+  "CHAR_DISABLED_3": 26000088,
+  "CHAR_DISABLED_4": 26000089,
+  "CHAR_DISABLED_5": 26000090,
+  "CHAR_DISABLED_6": 26000091,
+  "CHAR_DISABLED_7": 26000092,
+  "LittlePrince": 26000093,
+  "TriWizards": 26000094,
+  "GoblinDemolisher": 26000095,
+  "GoblinMachine": 26000096,
+  "SuspiciousBush": 26000097,
+  "SuperKnight": 26000098,
+  "Goblinstein": 26000099,
+  "SkeletonWarriors_SpookyChess": 26000100,
+  "GiantBuffer": 26000101,
+  "Berserker": 26000102,
+  "BossBandit": 26000103,
+  "MergeMaiden_Normal": 26000104,
+  "MergeMaiden_Mounted": 26000105,
+  "Ronin": 26000106,
+  "MinionGiant": 26000107,
+  "Cannon": 27000000,
+  "GoblinHut": 27000001,
+  "Mortar": 27000002,
+  "InfernoTower": 27000003,
+  "BombTower": 27000004,
+  "BarbarianHut": 27000005,
+  "Tesla": 27000006,
+  "Elixir Collector": 27000007,
+  "Xbow": 27000008,
+  "Tombstone": 27000009,
+  "FirespiritHut": 27000010,
+  "BarbarianLauncher": 27000011,
+  "GoblinCage": 27000012,
+  "GoblinDrill": 27000013,
+  "GoblinPartyHut": 27000014,
+  "DarkElixir_Bottle": 27000015,
+  "ElixirBarrel": 27000016,
+  "GoblinRocketSilo": 27000017,
+  "Fireball": 28000000,
+  "Arrows": 28000001,
+  "Rage": 28000002,
+  "Rocket": 28000003,
+  "GoblinBarrel": 28000004,
+  "Freeze": 28000005,
+  "Mirror": 28000006,
+  "Lightning": 28000007,
+  "Zap": 28000008,
+  "Poison": 28000009,
+  "Graveyard": 28000010,
+  "Log": 28000011,
+  "Tornado": 28000012,
+  "Clone": 28000013,
+  "Earthquake": 28000014,
+  "BarbLog": 28000015,
+  "Heal": 28000016,
+  "Snowball": 28000017,
+  "RoyalDelivery": 28000018,
+  "GlobalClone": 28000019,
+  "GoblinPartyRocket": 28000020,
+  "WarmSpell": 28000021,
+  "GlobalLightning": 28000022,
+  "DarkMagic": 28000023,
+  "GoblinCurse": 28000024,
+  "MergeMaiden": 28000025,
+  "Vines": 28000026
+ },
+ "rarity": {
+  "Knight": "Common",
+  "Archer": "Common",
+  "Goblins": "Common",
+  "Giant": "Rare",
+  "Pekka": "Epic",
+  "Minions": "Common",
+  "Balloon": "Epic",
+  "Witch": "Epic",
+  "Barbarians": "Common",
+  "Golem": "Epic",
+  "Skeletons": "Common",
+  "Valkyrie": "Rare",
+  "SkeletonArmy": "Epic",
+  "Bomber": "Common",
+  "Musketeer": "Rare",
+  "BabyDragon": "Epic",
+  "Prince": "Epic",
+  "Wizard": "Rare",
+  "MiniPekka": "Rare",
+  "SpearGoblins": "Common",
+  "GiantSkeleton": "Epic",
+  "HogRider": "Rare",
+  "MinionHorde": "Common",
+  "IceWizard": "Legendary",
+  "RoyalGiant": "Common",
+  "SkeletonWarriors": "Epic",
+  "Princess": "Legendary",
+  "DarkPrince": "Epic",
+  "ThreeMusketeers": "Rare",
+  "LavaHound": "Legendary",
+  "IceSpirits": "Common",
+  "FireSpirits": "Common",
+  "Miner": "Legendary",
+  "ZapMachine": "Legendary",
+  "Bowler": "Epic",
+  "RageBarbarian": "Legendary",
+  "BattleRam": "Rare",
+  "InfernoDragon": "Legendary",
+  "IceGolemite": "Rare",
+  "MegaMinion": "Rare",
+  "BlowdartGoblin": "Rare",
+  "GoblinGang": "Common",
+  "ElectroWizard": "Legendary",
+  "AngryBarbarians": "Common",
+  "Hunter": "Epic",
+  "AxeMan": "Epic",
+  "Assassin": "Legendary",
+  "RoyalRecruits": "Common",
+  "DarkWitch": "Legendary",
+  "Bats": "Common",
+  "Ghost": "Legendary",
+  "RamRider": "Legendary",
+  "MiniSparkys": "Rare",
+  "Rascals": "Common",
+  "MovingCannon": "Epic",
+  "MegaKnight": "Legendary",
+  "SkeletonBalloon": "Common",
+  "DartBarrell": "Rare",
+  "Wallbreakers": "Epic",
+  "RoyalHogs": "Rare",
+  "GoblinGiant": "Epic",
+  "Fisherman": "Legendary",
+  "EliteArcher": "Legendary",
+  "ElectroDragon": "Epic",
+  "Firecracker": "Common",
+  "MightyMiner": "Champion",
+  "SuperWitch": "Legendary",
+  "ElixirGolem": "Rare",
+  "BattleHealer": "Rare",
+  "SkeletonKing": "Champion",
+  "SuperLavaHound": "Legendary",
+  "SuperEliteArcher": "Legendary",
+  "ArcherQueen": "Champion",
+  "SuperHogRider": "Legendary",
+  "GoldenKnight": "Champion",
+  "SuperIceGolemite": "Legendary",
+  "CHAR_DISABLED_1": "Common",
+  "Monk": "Champion",
+  "SuperArcher": "Legendary",
+  "RoyalRecruits_Chess": "Common",
+  "SkeletonDragons": "Common",
+  "SuperHogRiderTerry": "Champion",
+  "SuperMiniPekka": "Legendary",
+  "WitchMother": "Legendary",
+  "ElectroSpirit": "Common",
+  "ElectroGiant": "Epic",
+  "PrinceBuff": "Epic",
+  "Phoenix": "Legendary",
+  "CHAR_DISABLED_3": "Common",
+  "CHAR_DISABLED_4": "Common",
+  "CHAR_DISABLED_5": "Common",
+  "CHAR_DISABLED_6": "Common",
+  "CHAR_DISABLED_7": "Common",
+  "LittlePrince": "Champion",
+  "TriWizards": "Legendary",
+  "GoblinDemolisher": "Rare",
+  "GoblinMachine": "Legendary",
+  "SuspiciousBush": "Rare",
+  "SuperKnight": "Legendary",
+  "Goblinstein": "Champion",
+  "SkeletonWarriors_SpookyChess": "Common",
+  "GiantBuffer": "Epic",
+  "Berserker": "Common",
+  "BossBandit": "Champion",
+  "MergeMaiden_Normal": "Legendary",
+  "MergeMaiden_Mounted": "Legendary",
+  "Ronin": "Legendary",
+  "MinionGiant": "Rare",
+  "Cannon": "Common",
+  "GoblinHut": "Rare",
+  "Mortar": "Common",
+  "InfernoTower": "Rare",
+  "BombTower": "Rare",
+  "BarbarianHut": "Rare",
+  "Tesla": "Common",
+  "Elixir Collector": "Rare",
+  "Xbow": "Epic",
+  "Tombstone": "Rare",
+  "FirespiritHut": "Rare",
+  "BarbarianLauncher": "Common",
+  "GoblinCage": "Rare",
+  "GoblinDrill": "Epic",
+  "GoblinPartyHut": "Legendary",
+  "DarkElixir_Bottle": "Champion",
+  "ElixirBarrel": "Legendary",
+  "GoblinRocketSilo": "Legendary",
+  "Fireball": "Rare",
+  "Arrows": "Common",
+  "Rage": "Epic",
+  "Rocket": "Rare",
+  "GoblinBarrel": "Epic",
+  "Freeze": "Epic",
+  "Mirror": "Epic",
+  "Lightning": "Epic",
+  "Zap": "Common",
+  "Poison": "Epic",
+  "Graveyard": "Legendary",
+  "Log": "Legendary",
+  "Tornado": "Epic",
+  "Clone": "Epic",
+  "Earthquake": "Rare",
+  "BarbLog": "Epic",
+  "Heal": "Rare",
+  "Snowball": "Common",
+  "RoyalDelivery": "Common",
+  "GlobalClone": "Epic",
+  "GoblinPartyRocket": "Legendary",
+  "WarmSpell": "Common",
+  "GlobalLightning": "Epic",
+  "DarkMagic": "Epic",
+  "GoblinCurse": "Epic",
+  "MergeMaiden": "Legendary",
+  "Vines": "Epic"
+ }
+}

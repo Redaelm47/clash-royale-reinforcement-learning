@@ -1,0 +1,10 @@
+numpy<2
+opencv-python
+mss
+onnxruntime
+pywin32
+pynput
+ultralytics==8.1.24
+torch
+torchvision
+jpype1>=1.5,<2

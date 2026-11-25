@@ -1,0 +1,5 @@
+{
+ "varied_levels": true,
+ "varied_forms": true,
+ "help": "How the model was trained: average of 15 PPO checkpoints, card levels 9 to 16, Musketeer as a hero or not, Cannon and Skeletons evolved or not (random forms), noisy input and delayed actions as in the kit. So it gets the real levels and forms from settings.json."
+}

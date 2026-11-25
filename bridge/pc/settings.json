@@ -1,0 +1,11 @@
+{
+ "help": "Card levels and forms in the REAL match, so the crforge twin simulates the match like the game does. The bot also gets these real levels and forms (it was trained with varied levels and forms): set them correctly.",
+ "my_card_level": 11,
+ "my_tower_level": 11,
+ "enemy_card_level": 11,
+ "enemy_tower_level": 11,
+ "my_evolutions": ["Skeletons"],
+ "my_heroes": [],
+ "enemy_evolutions": [],
+ "enemy_heroes": []
+}

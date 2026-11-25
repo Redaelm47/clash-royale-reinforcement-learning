@@ -154,7 +154,7 @@ The cluster pipeline is in `scripts/slurm/`.
 ## Pretrained model
 
 The latest model (4.56 M parameters, ONNX) is attached to the
-[latest release](../../releases/latest). Put `bot.onnx` in `bridge/pc/model/` to use it with the PC
+[latest release](https://github.com/Redaelm47/clash-royale-reinforcement-learning/releases/latest). Put `bot.onnx` in `bridge/pc/model/` to use it with the PC
 kit, or load it in crforge's desktop app.
 
 ## Status and limitations

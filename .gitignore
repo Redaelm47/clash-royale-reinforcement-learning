@@ -1,0 +1,68 @@
+# --- Data: never committed ------------------------------------------------
+# Replays (raw and converted) and conversion outputs; only the READMEs are tracked
+data/*
+!data/README.md
+!data/replays/
+data/replays/*
+!data/replays/README.md
+
+# Game data tables (card stats, files extracted from the game)
+data/tables/
+**/game_data/
+*.sc
+*.csv.gz
+
+# --- Checkpoints and training outputs ---------------------------------------
+checkpoints/
+runs/
+wandb/
+logs/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.npz
+*.msgpack
+rg/runs/
+rg/cache/
+
+# --- Slurm ----------------------------------------------------------------
+slurm-*.out
+slurm-*.err
+
+# --- External code built locally -------------------------------------------
+# crforge is cloned here to be built, it has its own repository
+sim/crforge/
+
+# --- PC kit: files specific to each machine or not ours to share -------------
+bridge/pc/logs/
+bridge/pc/cards/
+bridge/pc/calibration.json
+bridge/pc/calibration_check.png
+bridge/pc/model/tables/
+bridge/pc/crforge_lite/env/lib/*.jar
+# the timer digit templates are small and the kit needs them
+!bridge/pc/model/timer_digits.npz
+
+# --- Packaged kits and cluster archives --------------------------------------
+dist/
+
+# --- Python ---------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.ipynb_checkpoints/
+
+# --- Java -----------------------------------------------------------------
+target/
+build/
+*.class
+.gradle/
+
+# --- OS / editors ---------------------------------------------------------
+.DS_Store
+.idea/
+.vscode/

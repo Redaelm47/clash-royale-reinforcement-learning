@@ -1,0 +1,8 @@
+# Training and evaluation (Python 3.12). Versions tested on macOS arm64 and on the Linux cluster.
+# crforge's Python package is installed from the local clone: pip install -e sim/crforge/python
+torch==2.15.0
+numpy==2.5.5
+pyarrow==26.0.1
+onnx==1.23.2
+onnxruntime==1.32.0
+jpype1==1.7.1
